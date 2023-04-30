@@ -31,7 +31,7 @@ function Header() {
                         <NavDropdown.Item href="#srv10">Уход за руками и ногами</NavDropdown.Item>
                         <NavDropdown.Item href="#srv11">Коррекция формы бровей и ресниц </NavDropdown.Item>
                         <NavDropdown.Divider />
-                        <NavDropdown.Item href="#srv12">Separated link</NavDropdown.Item>
+                        <NavDropdown.Item href="#srv12">Ссылки</NavDropdown.Item>
                     </NavDropdown>
                 </Nav>
             </Navbar.Collapse>
